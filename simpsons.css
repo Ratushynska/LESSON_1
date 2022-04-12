@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(248, 183, 61);}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.945);
+    color: rgb(248, 183, 61);}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.945);
+    color: rgb(248, 183, 61);}
+
+a {
+    text-decoration: none;}
+a:visited {
+    color: rgb(248, 183, 61);}
+a:hover {
+    text-decoration: underline;}
+
+img {
+    width: 220px;}
+
+p, li {
+    background-color: rgba(0, 0, 0, 0.945);
+    color: rgb(248, 183, 61);
+    text-align: justify;}
